@@ -1,4 +1,4 @@
-use crate::iso
+use crate::iso;
 
 fn main() {
     let hello: string = "Hello Rachet World";
