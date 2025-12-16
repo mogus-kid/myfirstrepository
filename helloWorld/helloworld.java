@@ -1,4 +1,4 @@
-public class Main {
+public class helloworld {
     public static void main(String[] args) {
         String hello_variable1 = "Hello ";
         String language_name = "Java ";
