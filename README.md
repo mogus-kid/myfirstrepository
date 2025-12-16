@@ -26,5 +26,7 @@ I will use W3Schools to learn each of these languages, and maybe some other sour
 
 This is just a fun little project for me to do when I have some free time, and also to explore other programming languages.
 
+There are also compiled versions runnable with an .exe file.
+
 
 Also, for the Rachet language, it uses an extension in VSCode :D.
